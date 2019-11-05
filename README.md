@@ -1,2 +1,0 @@
-# EdResTools
-Created with CodeSandbox

@@ -1,0 +1,27 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.gameWrapper {
+  display:grid;
+  grid-gap:10px;
+  margin-bottom:20px;
+}
+.gameRow {
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap:20px;
+  grid-row-gap:2px;
+  background:#99aacc;
+  align-items:center;
+  padding:5px;
+}
+
+.gameRow p {
+  margin:0;
+  margin-bottom:0 5px;
+}
+
+.gameRow button {
+  margin:5px;
+}
